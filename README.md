@@ -79,7 +79,7 @@
                     <img src="https://img.shields.io/badge/-Redhat_OpenJDK-EE0000?style=flat-square&logo=red-hat&logoColor=fff" alt="Java: 100%">
                 </a>
                 <a href="https://nodejs.org">
-                    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=fff" alt="Java: 100%">
+                    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=fff" alt="Java: 100%">
                 </a>
             </div>
         </td>
@@ -136,10 +136,10 @@
                 </a>
                 &nbsp;
                 <a href="https://vuejs.org/">
-                    <img src="https://img.shields.io/badge/Vue.js-v2-4fc08d?style=flat-square&logo=vue-dot-js" alt="Vue.js: 100%" />
+                    <img src="https://img.shields.io/badge/Vue.js-v2-4fc08d?style=flat-square&logo=vue.js" alt="Vue.js: 100%" />
                 </a>
                 <a href="https://nuxtjs.org/">
-                    <img src="https://img.shields.io/badge/Nuxt.js-v2-00C58E?style=flat-square&logo=nuxt-dot-js" alt="Vue.js: 100%" />
+                    <img src="https://img.shields.io/badge/Nuxt.js-v2-00C58E?style=flat-square&logo=nuxt.js" alt="Vue.js: 100%" />
                 </a>
                 <a href="https://antdv.com/">
                     <img src="https://img.shields.io/badge/Ant_Design_Vue-v1-0170FE?style=flat-square&logo=ant-design" alt="Vue.js: 100%" />
