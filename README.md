@@ -87,9 +87,6 @@
                 <a href="https://nuxtjs.org/">
                     <img src="https://img.shields.io/badge/Nuxt.js-v2-00C58E?style=flat-square&logo=nuxt.js" alt="Vue.js: 100%" />
                 </a>
-                <a href="https://antdv.com/">
-                    <img src="https://img.shields.io/badge/Ant_Design_Vue-v1-0170FE?style=flat-square&logo=ant-design" alt="Vue.js: 100%" />
-                </a>
             </div>
         </td>
         <td valign="top" colspan="2">
