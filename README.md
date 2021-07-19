@@ -60,14 +60,6 @@
                 </a>
             </div>
         </td>
-        <td valign="top" width="33%">
-            <h3 align="center">데이터베이스 <small>Database</small></h3>
-            <div align="center">
-                <a href="https://www.postgresql.org/">
-                    <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff" alt="Java: 100%">
-                </a>
-            </div>
-        </td>
     </tr>
     <tr></tr>
     <tr>
@@ -89,7 +81,7 @@
                 </a>
             </div>
         </td>
-        <td valign="top" colspan="2">
+        <td valign="top">
             <h3 align="center">
                 플랫폼 및 서비스 <br>
                 <small>Platform & Service</small>
