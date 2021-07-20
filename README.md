@@ -79,7 +79,6 @@
                 <a href="https://gitlab.com">
                     <img src="https://img.shields.io/badge/GitLab-Self_Hosted|GitLab_CI-FCA121?style=flat-square&logo=gitlab" alt="GitLab: 80%">
                 </a>
-                <br>
                 <a href="https://vercel.com">
                     <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel" alt="Vercel: 50%">
                 </a>
