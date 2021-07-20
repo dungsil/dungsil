@@ -18,52 +18,35 @@
 </p>
 
 ## 🤹🏼‍♀️ 사용 기술스택 <small>My Skills</small>
+아래의 기술스택은 실 사용(업무)된 스택만 작성하였습니다.
+
 <table border="0">
     <tr>
-        <td valign="top" width="33%">
+        <td valign="top" width="50%">
             <h3 align="center">언어 <small>Language</small></h3>
             <div align="center">
                 <a href="https://kotlinlang.org">
                     <img src="https://img.shields.io/badge/-Kotlin-9135e0?style=flat-square&logo=kotlin&logoColor=fff" alt="Kotlin: 100%" />
                 </a>
-                <a href="https://www.typescriptlang.org/">
-                    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typeScript&logoColor=fff" alt="Typescript: 100%" />
-                </a>
-                <a href="https://sass-lang.com/">
-                    <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=fff" alt="SCSS: 100%" />
-                </a>
-                <br />
                 <a href="https://openjdk.java.net/">
                     <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=fff" alt="Java: 100%" />
                 </a>
-                <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=333" alt="Java: 100%" />
-                <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=fff" alt="Java: 100%" />
-            </div>
-        </td>
-        <td valign="top" width="33%">
-            <h3 align="center">개발도구 <small>Dev tools</small></h3>
-            <div align="center">
-                <a href="https://git-scm.com/">
-                    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff" alt="Git: 100%">
+                <a href="https://www.typescriptlang.org/">
+                    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typeScript&logoColor=fff" alt="Typescript: 100%" />
                 </a>
-                <a href="https://www.jetbrains.com/idea/">
-                    <img src="https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=fff" alt="IntelliJ Platform: 80%">
+                <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=333" alt="JavaScript: 100%" />
+                <br />
+                <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff" alt="HTML: 100%" />
+                <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=fff" alt="CSS: 100%" />
+                <a href="https://sass-lang.com/">
+                    <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=fff" alt="SCSS: 100%" />
                 </a>
-                <a href="https://www.docker.com/">
-                    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff" alt="Docker: 50%" />
-                </a>
-                <a href = "https://git-fork.com/">
-                    <img src="https://img.shields.io/badge/-Fork-rgba(27,163,239,1)?style=flat-square" alt="Git fork: 100%" />
-                </a>
-                <a href = "https://wakatime.com/">
-                    <img src="https://img.shields.io/badge/-Wakatime-000?style=flat-square&logo=wakatime" alt="Git fork: 100%" />
+                <a href="https://lesscss.org/">
+                    <img src="https://img.shields.io/badge/-LESS-1D365D?style=flat-square&logo=less&logoColor=fff" alt="SCSS: 100%" />
                 </a>
             </div>
         </td>
-    </tr>
-    <tr></tr>
-    <tr>
-        <td>
+        <td width="50%">
             <h3 align="center">프레임워크 <small>Framework</small></h3>
             <div align="center">
                 <a href="https://spring.io/">
@@ -81,6 +64,9 @@
                 </a>
             </div>
         </td>
+    </tr>
+    <tr></tr>
+    <tr>
         <td valign="top">
             <h3 align="center">
                 플랫폼 및 서비스 <br>
@@ -99,6 +85,26 @@
                 </a>
                 <a href="https://aws.amazon.com">
                     <img src="https://img.shields.io/badge/AWS-EC2|Route53|Cloudfront|CodePipeline-535D6C?style=flat-square&logo=Amazon%20AWS" alt="AWS: 50%">
+                </a>
+            </div>
+        </td>
+        <td valign="top">
+            <h3 align="center">개발도구 <small>Dev tools</small></h3>
+            <div align="center">
+                <a href="https://git-scm.com/">
+                    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff" alt="Git: 100%">
+                </a>
+                <a href="https://www.jetbrains.com/idea/">
+                    <img src="https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=fff" alt="IntelliJ Platform: 80%">
+                </a>
+                <a href="https://www.docker.com/">
+                    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff" alt="Docker: 50%" />
+                </a>
+                <a href = "https://git-fork.com/">
+                    <img src="https://img.shields.io/badge/-Fork-rgba(27,163,239,1)?style=flat-square" alt="Git fork: 100%" />
+                </a>
+                <a href = "https://wakatime.com/">
+                    <img src="https://img.shields.io/badge/-Wakatime-000?style=flat-square&logo=wakatime" alt="Git fork: 100%" />
                 </a>
             </div>
         </td>
