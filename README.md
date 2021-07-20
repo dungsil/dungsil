@@ -18,7 +18,7 @@
 </p>
 
 ## 🤹🏼‍♀️ 사용 기술스택 <small>My Skills</small>
-<table>
+<table border="0">
     <tr>
         <td valign="top" width="33%">
             <h3 align="center">언어 <small>Language</small></h3>
@@ -110,7 +110,7 @@
     <a href="https://github.com/dungsil">
         <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github" alt="go to Github">
     </a>
-    <a href="mailto:oss.kyg.kr">
+    <a href="mailto:mail@kyg.kr">
         <img src="https://img.shields.io/badge/-Mail-0078D4?style=for-the-badge&logo=microsoft%20outlook" alt="send mail">
     </a>
 </div>
