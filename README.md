@@ -72,7 +72,7 @@
                 <a href="https://spring.io/projects/spring-boot/">
                     <img src="https://img.shields.io/badge/Spring_boot-v2-6DB33F?style=flat-square&logo=spring-boot" alt="Vue.js: 100%" />
                 </a>
-                &nbsp;
+                <br />
                 <a href="https://vuejs.org/">
                     <img src="https://img.shields.io/badge/Vue.js-v2-4fc08d?style=flat-square&logo=vue.js" alt="Vue.js: 100%" />
                 </a>
