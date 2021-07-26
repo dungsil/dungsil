@@ -110,6 +110,11 @@
     </tr>
 </table>
 
+## 🌏 도메인<small>Domain</small>
+ - **KYG.kr**: 이메일, 쇼트URL(http://kyg.kr/strawberry-milk 등), API 등 상대방이 기억하기 좋은 짧은 용도로 사용. KYG는 이니셜.
+ - **younggeon.kim**: 블로그, 포트폴리오용 도메인
+ - **rm-rf.dev**: 온라인 도구모음 사이트를 만들 계획..이었지만 지금은 딱히 쓰는 곳이 없음
+
 ## 👉🏼👈 연락처<small>Connect with me</small>
 <div align="center">
     <a href="https://github.com/dungsil">
