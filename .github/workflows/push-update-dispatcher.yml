@@ -7,6 +7,10 @@ jobs:
   younggeon.kim:
     runs-on: ubuntu-latest
     steps:
-      - run: |
-        curl -XPOST -u "${{ secrets.GH_USERNAME}}:${{secrets.GH_TOKEN}}" -H "Accept: application/vnd.github.everest-preview+json" -H "Content-Type: application/json" https://api.github.com/repos/dungsil/younggeon.kim/actions/workflows/automatic-update-profile.yml/dispatches --data '{"ref": "main"}'
-    
+      - uses: adityakar/workflow-dispatcher@v1.0
+        with:
+          event_type: opened
+          owner: dungsil
+          repo: "younggeon.kim"
+          token: ${{ secrets.GH_TOKEN }}
+          wait_time: 120 # 2분
