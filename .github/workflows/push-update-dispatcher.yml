@@ -8,4 +8,4 @@ jobs:
   younggeon_kim:
     runs-on: ubuntu-latest
     steps:
-      - run: "curl -X POST -H \"Accept: application/vnd.github.v3+json\" https://api.github.com/repos/dungsil/younggeon.kim/actions/workflows/automatic-update-profile.yml/dispatches -d '{\"ref\":\"main\"}'"
+      - run: "curl -X POST -u dungsil:${{ secerts.GH_TOKEN }} -H \"Accept: application/vnd.github.v3+json\" https://api.github.com/repos/dungsil/younggeon.kim/actions/workflows/automatic-update-profile.yml/dispatches -d '{\"ref\":\"main\"}'"
