@@ -4,7 +4,7 @@ on:
       - main
 
 jobs:
-  younggeon.kim:
+  younggeon_kim:
     runs-on: ubuntu-latest
     steps:
       - uses: adityakar/workflow-dispatcher@v1.0
