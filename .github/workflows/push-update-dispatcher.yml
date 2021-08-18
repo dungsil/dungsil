@@ -9,8 +9,9 @@ jobs:
     steps:
       - uses: adityakar/workflow-dispatcher@v1.0
         with:
-          event_type: opened
+          event_type: push-update-dispatcher
           owner: dungsil
           repo: "younggeon.kim"
           token: ${{ secrets.GH_TOKEN }}
           wait_time: 120 # 2분
+          client_payload: '{ "ref": "main" }'
