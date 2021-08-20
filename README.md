@@ -1,5 +1,3 @@
-![Dungsil](https://capsule-render.vercel.app/api?type=waving&color=877bff&fontColor=fff&height=200&fontAlignY=40&fontAlign=80&text=Dungsil)
-
 <p align="center">
     안녕하세요! 👋🏼 <br />
     풀스택 개발자로 일하고 있는 김용건입니다. 👨🏼‍💻 <br />
