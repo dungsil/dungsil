@@ -116,6 +116,9 @@
 
 ## 👉🏼👈 연락처<small>Connect with me</small>
 <div align="center">
+    <a href="https://younggeon.kim">
+        <img src="https://img.shields.io/badge/-Blog-7950f2?style=for-the-badge" alt="send mail">
+    </a>
     <a href="https://github.com/dungsil">
         <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github" alt="go to Github">
     </a>
