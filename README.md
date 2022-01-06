@@ -19,3 +19,4 @@ For my projects, I mostly used Kotlin and Typescript
 [![Firefox strawberry milk theme](https://github-readme-stats.vercel.app/api/pin/?username=dungsil&repo=strawberry-milk)](https://github.com/dungsil/strawberry-milk)
 [![Conventional Commits Korean & Emoji Preset](https://github-readme-stats.vercel.app/api/pin/?username=dungsil&repo=conventional-changelog-dungsil)](https://github.com/dungsil/conventional-changelog-dungsil)
 [![Opengraph image as a Service for Korean](https://github-readme-stats.vercel.app/api/pin/?username=dungsil&repo=og.kyg.kr)](https://github.com/dungsil/og.kyg.kr)
+[![Opengraph image as a Service for Korean](https://github-readme-stats.vercel.app/api/pin/?username=tui-nuxt&repo=editor&show_owner=true)](https://github.com/tui-nuxt/editor)
