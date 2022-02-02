@@ -14,7 +14,7 @@ profile picture: [WONBAM, 〈조선 털뭉치들 : Gat Cat〉](https://www.posty
 [![Nuxt articles](https://github-readme-stats.vercel.app/api/pin/?username=dungsil&repo=nuxt-articles)](https://github.com/dungsil/nuxt-articles)
 
 ###### 🚑️ Maintaining
-[![Apache Archive scoop bucket](https://github-readme-stats.vercel.app/api/pin/?username=dungsil&repo=scoop-apache-archive)](httpshttps://github.com/dungsil/scoop-apache-archive)
+[![Apache Archive scoop bucket](https://github-readme-stats.vercel.app/api/pin/?username=dungsil&repo=scoop-apache-archive)](https://github.com/dungsil/scoop-apache-archive)
 [![Iconify convert format](https://github-readme-stats.vercel.app/api/pin/?username=dungsil&repo=convert-iconify)](https://github.com/dungsil/convert-iconify)
 
 ###### 🔖 Archived
