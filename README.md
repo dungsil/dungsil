@@ -5,7 +5,7 @@ For my projects, I mostly used Kotlin and Typescript
 profile picture: [WONBAM, 〈조선 털뭉치들 : Gat Cat〉](https://www.postype.com/content/post/11613023)
 
 ## Links
- - [Blog](https://younggeon.kim)
+ - [Blog](https://younggeon.kim) ([:octocat:](https://github.com/dungsil/blog))
 
 ## My OSS
 
