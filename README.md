@@ -16,6 +16,7 @@ profile picture: [WONBAM, 〈조선 털뭉치들 : Gat Cat〉](https://www.posty
 
 ###### 🚑️ Maintaining
 [![Apache Archive scoop bucket](https://github-readme-stats.vercel.app/api/pin/?username=dungsil&repo=scoop-apache-archive)](https://github.com/dungsil/scoop-apache-archive)
+[![Apache Archive scoop bucket](https://github-readme-stats.vercel.app/api/pin/?username=eyesprotocol&repo=ethereum-validator)](https://github.com/eyesprotocol/ethereum-validator)
 
 ###### 🔖 Archived
 [![Firefox strawberry milk theme](https://github-readme-stats.vercel.app/api/pin/?username=dungsil&repo=strawberry-milk)](https://github.com/dungsil/strawberry-milk)
