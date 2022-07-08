@@ -2,11 +2,9 @@ Hello there 👋🏼 \
 I am a web developer working since 2016 in Korea. 🇰🇷👨🏼‍💻 <br />
 For my projects, I mostly used Kotlin and Typescript
 
-profile picture: [WONBAM, 〈조선 털뭉치들 : Gat Cat〉](https://wonbam.postype.com/post/11613023)
+📝 [Blog](https://kyg.kr/blog) | ✉️ [Connect with me](https://kyg.kr/issues)
 
-## Links
- - [Blog](https://younggeon.kim) ([:octocat:](https://github.com/dungsil/blog))
- - [dun.land](https://dun.land) - Privacy focus CDN
+profile picture: [WONBAM, 〈조선 털뭉치들 : Gat Cat〉](https://wonbam.postype.com/post/11613023)
 
 ## My OSS
 
