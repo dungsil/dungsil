@@ -18,8 +18,8 @@ profile picture: [WONBAM, 〈조선 털뭉치들 : Gat Cat〉](https://wonbam.po
 [![Iconify convert format](https://github-readme-stats.vercel.app/api/pin/?username=dungsil&repo=convert-iconify)](https://github.com/dungsil/convert-iconify)
 
 ###### 🔖 Archived
- - [Firefox strawberry milk theme](https://github.com/dungsil/strawberry-milk)
- - [conventional-changelog-dungsil](https://github.com/dungsil/conventional-changelog-dungsil)
- - [og.kyg.kr](https://github.com/dungsil/og.kyg.kr) - 오픈그래프 생성 SaaS, [GFO](https://github.com/dungsil/gfo)로 대체됨
- - [tui-nuxt](https://github.com/tui-nuxt/editor) - [@toast-ui/vue-editor](https://github.com/nhn/tui.editor/tree/master/apps/vue-editor)로 대체됨
- - [nuxt-articles](https://github.com/dungsil/nuxt-articles) - [@nuxt/content](https://github.com/nuxt/content/) v1으로 대체됨
+ - [strawberry-milk](https://github.com/dungsil/strawberry-milk) - Firefox theme
+ - [conventional-changelog-dungsil](https://github.com/dungsil/conventional-changelog-dungsil) - Emoji & Korean changelog preset
+ - [og.kyg.kr](https://github.com/dungsil/og.kyg.kr) - Generate Open graph SaaS, replaced by [GFO](https://github.com/dungsil/gfo)
+ - [tui-nuxt](https://github.com/tui-nuxt/editor) - TOAST UI Editor for Nuxt.js v2, replaced by [@toast-ui/vue-editor](https://github.com/nhn/tui.editor/tree/master/apps/vue-editor)
+ - [nuxt-articles](https://github.com/dungsil/nuxt-articles) - Simple articles API generator Module for Nuxt.js v3, replaced by [@nuxt/content](https://github.com/nuxt/content/) v2
