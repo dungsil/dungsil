@@ -13,7 +13,6 @@ profile picture: [WONBAM, 〈조선 털뭉치들 : Gat Cat〉](https://wonbam.po
 [![GFO - GitHub Flavored Open Graph Generator](https://github-readme-stats.vercel.app/api/pin/?username=dungsil&repo=gfo)](https://github.com/dungsil/gfo)
 
 ###### 🚑️ Maintaining
-[![Apache Archive scoop bucket](https://github-readme-stats.vercel.app/api/pin/?username=dungsil&repo=scoop-apache-archive)](https://github.com/dungsil/scoop-apache-archive)
 [![EYES - Ethereum validator](https://github-readme-stats.vercel.app/api/pin/?username=eyesprotocol&repo=ethereum-validator&show_owner=true)](https://github.com/eyesprotocol/ethereum-validator)
 [![Iconify convert format](https://github-readme-stats.vercel.app/api/pin/?username=dungsil&repo=convert-iconify)](https://github.com/dungsil/convert-iconify)
 
