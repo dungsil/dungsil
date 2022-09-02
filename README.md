@@ -1,4 +1,4 @@
-Hello there 👋🏼 \
+Hello there 👋🏼
 
 📝 [Blog](https://kyg.kr/blog) | ✉️ [Connect with me](https://kyg.kr/issues) | 🗒️ [Resume](https://kyg.kr/resume)
 
