@@ -2,7 +2,7 @@ Hello there 👋🏼 \
 I am a web developer working since 2016 in Korea. 🇰🇷👨🏼‍💻 <br />
 For my projects, I mostly used Kotlin and Typescript
 
-📝 [Blog](https://kyg.kr/blog) | ✉️ [Connect with me](https://kyg.kr/issues)
+📝 [Blog](https://kyg.kr/blog) | ✉️ [Connect with me](https://kyg.kr/issues) | 🗒️ [Resume](https://kyg.kr/resume)
 
 profile picture: [WONBAM, 〈조선 털뭉치들 : Gat Cat〉](https://wonbam.postype.com/post/11613023)
 
