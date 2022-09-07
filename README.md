@@ -1,6 +1,6 @@
 Hello there 👋🏼
 
-📝 [Blog](https://kyg.kr/blog) | ✉️ [Connect with me](https://kyg.kr/issues) | 🗒️ [Resume](https://kyg.kr/resume)
+📝 [Blog](https://kyg.kr/blog) | ✉️ [Connect with me](https://kyg.kr/issues) 
 
 profile picture: [WONBAM, 〈조선 털뭉치들 : Gat Cat〉](https://wonbam.postype.com/post/11613023)
 
