@@ -8,7 +8,7 @@ profile picture: [WONBAM, 〈조선 털뭉치들 : Gat Cat〉](https://wonbam.po
 
 ###### 🔥 Working
 [![Ppalli - fullstack template](https://github-readme-stats.vercel.app/api/pin/?username=dungsil&repo=ppalli)](https://github.com/dungsil/ppalli)
-[![GFO - GitHub Flavored Open Graph Generator](https://github-readme-stats.vercel.app/api/pin/?username=dungsil&repo=gfo)](https://github.com/dungsil/gfo)
+[![GFO - GitHub Flavored Open Graph Generator](https://github-readme-stats.vercel.app/api/pin/?username=dungsil&repo=gfo)](https://github.com/dungsil/oas)
 
 ###### 🚑️ Maintaining
 [![EYES - Ethereum validator](https://github-readme-stats.vercel.app/api/pin/?username=eyesprotocol&repo=ethereum-validator&show_owner=true)](https://github.com/eyesprotocol/ethereum-validator)
