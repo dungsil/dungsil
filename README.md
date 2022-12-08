@@ -10,7 +10,7 @@ profile picture: [WONBAM, 〈조선 털뭉치들 : Gat Cat〉](https://wonbam.po
 
 ###### 🚑️ Maintaining
 [![EYES - Ethereum validator](https://github-readme-stats.vercel.app/api/pin/?username=eyesprotocol&repo=ethereum-validator&show_owner=true)](https://github.com/eyesprotocol/ethereum-validator)
-[![Iconify convert format](https://github-readme-stats.vercel.app/api/pin/?username=dun-land&repo=convert-iconify&show_owner=true)](https://github.com/dungsil/convert-iconify)
+[![Iconify convert format](https://github-readme-stats.vercel.app/api/pin/?username=dungsil&repo=convert-iconify)](https://github.com/dungsil/convert-iconify)
 [![Ppalli - fullstack template](https://github-readme-stats.vercel.app/api/pin/?username=dungsil&repo=ppalli)](https://github.com/dungsil/ppalli)
 
 ###### 🔖 Archived
