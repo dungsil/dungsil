@@ -12,7 +12,9 @@ profile picture: [WONBAM, 〈조선 털뭉치들 : Gat Cat〉](https://wonbam.po
 [![EYES - Ethereum validator](https://github-readme-stats.vercel.app/api/pin/?username=eyesprotocol&repo=ethereum-validator&show_owner=true)](https://github.com/eyesprotocol/ethereum-validator)
 [![Iconify convert format](https://github-readme-stats.vercel.app/api/pin/?username=dungsil&repo=convert-iconify)](https://github.com/dungsil/convert-iconify)
 
-###### 🔖 Archived
+ <details>
+  <summary><h6>🔖 Archived</h6></summary>
+  
  - [strawberry-milk](https://github.com/dungsil/strawberry-milk) - Firefox theme
  - [conventional-changelog-dungsil](https://github.com/dungsil/conventional-changelog-dungsil) - Emoji & Korean changelog preset
  - [og.kyg.kr](https://github.com/dungsil/og.kyg.kr) - Generate Open graph SaaS, replaced by [OaS](https://github.com/dungsil/oas)
@@ -20,3 +22,4 @@ profile picture: [WONBAM, 〈조선 털뭉치들 : Gat Cat〉](https://wonbam.po
  - [tui-nuxt](https://github.com/tui-nuxt/editor) - TOAST UI Editor for Nuxt.js v2, replaced by [@toast-ui/vue-editor](https://github.com/nhn/tui.editor/tree/master/apps/vue-editor)
  - [nuxt-articles](https://github.com/dungsil/nuxt-articles) - Simple articles API generator Module for Nuxt.js v3, replaced by [@nuxt/content](https://github.com/nuxt/content/) v2
  - [ppalli](https://github.com/dungsil/ppalli) - Spring boot v2 template, replaced by [PPALLI v2](https://github.com/dungsil/ppalli2)
+ </details>
