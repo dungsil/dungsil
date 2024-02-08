@@ -2,7 +2,7 @@ Hello there 👋🏼
 
 📝 [Blog](https://kyg.kr/blog) | ✉️ [Connect with me](https://kyg.kr/issues) 
 
-profile picture: [WONBAM, 〈조선 털뭉치들 : Gat Cat〉](https://wonbam.postype.com/post/11613023)
+profile picture: [불타입 개구리 @7HD3M5L4@Twitter](https://twitter.com/7HD3M5L4)
 
 ## My OSS
 
